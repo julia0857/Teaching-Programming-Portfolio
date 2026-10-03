@@ -7,3 +7,6 @@ Hi, I'm Julia! I'm a 4th year Applied Mathematics student at UCSD. I enjoy creat
 
 ### Code Explanation: Sequences
 [Watch on YouTube!](https://youtu.be/v73FTzxOtmQ)
+
+## Writing and Explaining A Program
+[Watch on YouTube!](https://youtu.be/dhm7cF3GDOg)
