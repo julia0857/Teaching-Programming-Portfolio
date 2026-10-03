@@ -5,8 +5,8 @@ Hi, I'm Julia! I'm a 4th year Applied Mathematics student at UCSD. I enjoy creat
 
 ## Work from EDS 124BR: Teaching Computational Thinking for Everyone
 
-### Code Explanation: Sequences
+### Code Explanation: Sequences (Wk1)
 [Watch on YouTube!](https://youtu.be/v73FTzxOtmQ)
 
-## Writing and Explaining A Program
+## Writing and Explaining A Program (Wk2)
 [Watch on YouTube!](https://youtu.be/dhm7cF3GDOg)
