@@ -16,3 +16,6 @@ Hi, I'm Julia! I'm a 4th year Applied Mathematics student at UCSD. I enjoy creat
 
 ### Code Explanation: Nested Repeats (Wk3)
 [Watch on YouTube!](https://youtu.be/GwTeBnZ9j9A)
+
+### Code Explanation: Events (Wk3)
+[Watch on YouTube!](https://youtu.be/crOK3kINyws)
