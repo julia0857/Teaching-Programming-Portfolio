@@ -9,11 +9,8 @@ Hi, I'm Julia! I'm a 4th year Applied Mathematics student at UCSD. I enjoy creat
 
 ### Code Explanation: Repeats (Wk2) (https://youtu.be/dhm7cF3GDOg)
 
-### Code Explanation: Repeats on Animal Parade (Wk2)
-[Watch on YouTube!](https://youtu.be/NjlB-qAX5vk)
+### Code Explanation: Repeats on Animal Parade (Wk2) (https://youtu.be/NjlB-qAX5vk)
 
-### Code Explanation: Nested Repeats (Wk3)
-[Watch on YouTube!](https://youtu.be/GwTeBnZ9j9A)
+### Code Explanation: Nested Repeats (Wk3) (https://youtu.be/GwTeBnZ9j9A)
 
-### Code Explanation: Events (Wk3)
-[Watch on YouTube!](https://youtu.be/crOK3kINyws)
+### Code Explanation: Events (Wk3) (https://youtu.be/crOK3kINyws)
