@@ -16,3 +16,5 @@ Hi, I'm Julia! I'm a 4th year Applied Mathematics student at UCSD. I enjoy creat
 ### Code Explanation: Events (Wk3) (https://youtu.be/crOK3kINyws)
 
 ### Code Explanation: Variables (Wk4) (https://youtu.be/qEtgh8cPVJA)
+
+### Code Explanation: Conditional Repeat (Wk5) (https://youtu.be/QQqA-DI2Ut4)
