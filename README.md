@@ -20,3 +20,5 @@ Hi, I'm Julia! I'm a 4th year Applied Mathematics student at UCSD. I enjoy creat
 ### Code Explanation: Conditional Repeat (Wk5) (https://youtu.be/QQqA-DI2Ut4)
 
 ### Code Explanation: If-Else (Wk6) (https://youtu.be/RK80WAxvzV4)
+
+### Code Explanation: Nested If-Else (Wk7) (https://youtu.be/eQnzJAVsV6I)
